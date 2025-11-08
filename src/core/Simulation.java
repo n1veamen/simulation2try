@@ -1,16 +1,7 @@
 package core;
 
 import config.Config;
-import entitypack.Entity;
-import entitypack.Grass;
-import entitypack.Rock;
-import entitypack.creaturepack.Creature;
-import entitypack.creaturepack.Hebrivore;
-import entitypack.creaturepack.Predator;
 import view.Renderer;
-
-import javax.crypto.SecretKey;
-import java.util.List;
 
 public class Simulation {
     public static void main(String[] args) {

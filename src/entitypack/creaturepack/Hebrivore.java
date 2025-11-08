@@ -4,7 +4,6 @@ import config.Config;
 import core.GameMap;
 import core.PathFinder;
 import core.Point;
-import entitypack.Entity;
 import entitypack.Grass;
 
 import java.util.LinkedList;

@@ -1,6 +1,5 @@
 package entitypack.creaturepack;
 
-import config.Config;
 import core.GameMap;
 import core.Point;
 import entitypack.Entity;
